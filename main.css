@@ -1,0 +1,49 @@
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: yellow;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    background-color: white;
+    width: 384px;
+    padding: 24px;
+    border-radius: 20px;
+}
+
+.image img {
+    width: 336px;
+}
+
+.apprendre {
+    display: inline;
+    background-color: yellowgreen;
+    text-align: center;
+    width: 82px;
+    border-radius: 4px;
+}
+
+h1 {
+    margin-bottom: 16px;
+    font-family: "Figtree"
+}
+
+p {
+    margin-bottom: 8px;
+}
+
+div {
+    margin-bottom: 8px;
+}
